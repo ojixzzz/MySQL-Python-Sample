@@ -1,4 +1,4 @@
-db_host='localhost'
-db_user='root'
-db_password=''
-db_name='pythoncoba'
+dbConfig = {'host': 'localhost',
+            'user': 'root',
+            'passwd': '',
+            'db': 'pythontes'}
